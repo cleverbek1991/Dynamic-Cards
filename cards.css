@@ -1,0 +1,13 @@
+.card {
+	margin-top: 40px;
+	width: 200px;
+	height: 100px;
+	background-color: lightgreen;
+}
+p {
+	padding: 25px 25px;
+}
+
+.delete {
+	margin-left: 25px;
+}
